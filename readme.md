@@ -7,7 +7,7 @@ LICENSE: [MIT](./licence.md)
 ---
 
 ### Содержание:
-1. Что-то
+1. [Общие понятия](/osnova.md)
 2. [git add](/add.md)
 
 ---
